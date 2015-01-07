@@ -86,7 +86,6 @@
 				7D03823C1A5B52D300232C27 /* Main.storyboard */,
 				7D03823F1A5B52D300232C27 /* Images.xcassets */,
 				7D0382411A5B52D300232C27 /* LaunchScreen.xib */,
-				7D03825A1A5C559100232C27 /* AlbertEinsteinStamp.jpg */,
 				7D0382361A5B52D300232C27 /* Supporting Files */,
 			);
 			path = Postcard;
@@ -95,6 +94,7 @@
 		7D0382361A5B52D300232C27 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				7D03825A1A5C559100232C27 /* AlbertEinsteinStamp.jpg */,
 				7D0382581A5C533A00232C27 /* SagradaFamilia.jpeg */,
 				7D0382371A5B52D300232C27 /* Info.plist */,
 			);
@@ -415,6 +415,7 @@
 				7D0382541A5B52D400232C27 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7D0382551A5B52D400232C27 /* Build configuration list for PBXNativeTarget "PostcardTests" */ = {
 			isa = XCConfigurationList;
@@ -423,6 +424,7 @@
 				7D0382571A5B52D400232C27 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
